@@ -1,5 +1,4 @@
 ## Capstone Portfolio
-Dennis Shaykevich
 
 This Portfolio consists of 3 projects:
 
